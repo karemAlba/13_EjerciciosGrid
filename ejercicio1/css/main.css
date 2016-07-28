@@ -1,0 +1,21 @@
+.flota{
+	float: left;
+	margin-right: 30px;
+
+}
+
+*{
+	text-align: justify;
+
+}
+
+.gris{
+	background-color: grey;
+	color: white;
+	border-radius: 10px; 
+}
+
+.row{
+	margin-top: 30px;
+
+}
